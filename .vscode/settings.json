@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.fontSize": 10,
+    "terminal.integrated.fontWeight": 400,
+    "terminal.integrated.fontWeightBold": "bold",
+    "editor.fontFamily": "Fira code",
+    "editor.fontSize": 12,
+    "editor.fontWeight": 400,
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.productIconTheme": "material-product-icons",
+    "workbench.colorCustomizations": {
+        "gauge.background"
+    }
+}
